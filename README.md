@@ -1,2 +1,2 @@
 # ml-practice
-this is a practice machine learning project
+This is a practice machine learning project
